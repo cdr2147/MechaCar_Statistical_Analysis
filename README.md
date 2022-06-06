@@ -70,5 +70,5 @@ A statistical study could be performed using a linear model to quantify how Mech
 and horse power. The null hypothesis is that there is no statistical difference between MechaCar prototypes and competition regarding fuel efficiency and horse power. 
 The alternative hypothesis is that there is a statistical different between MechaCar prototypes and competition regarding fuel efficiency and horse power. 
 To run this analysis, we would need mpg based on city and highway driving and horse power for each vehicle. Using a linear model and determing the R-squared value 
-will help determine if the model can effectively be used in the future to predict the best horse power for fuel efficiency and would be most efficient for the 
-consumer.
+will help determine if the model can effectively be used in the future to predict the best horse power for fuel efficiency and help inform the manufacturing
+of prototypes.
