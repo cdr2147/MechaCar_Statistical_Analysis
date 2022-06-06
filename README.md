@@ -66,3 +66,9 @@ population mean PSI
 * The p-value of lot 2 is below .05, which means lot 2 has a mean PSI which is statistically different from the population mean PSI
 
 ## Study Design: MechaCar vs Competition
+A statistical study could be performed using a linear model to quantify how MechaCar performs against competition as related to city and highway fuel efficiency
+and horse power. The null hypothesis is that there is no statistical difference between MechaCar prototypes and competition regarding fuel efficiency and horse power. 
+The alternative hypothesis is that there is a statistical different between MechaCar prototypes and competition regarding fuel efficiency and horse power. 
+To run this analysis, we would need mpg based on city and highway driving and horse power for each vehicle. Using a linear model and determing the R-squared value 
+will help determine if the model can effectively be used in the future to predict the best horse power for fuel efficiency and would be most efficient for the 
+consumer.
